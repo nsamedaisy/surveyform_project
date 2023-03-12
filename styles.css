@@ -1,13 +1,16 @@
 body {
-  background-image: linear-gradient(rgba(165 164 164 50%), rgb(91 91 148)), "url"(jason-goodman-vbxyFxlgpjM-unsplash.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
   font-family: Poppins, sans-serif;
-  font-size: 18px;
+  font-size: 17px;
   flex-wrap: wrap;
   line-height: 1.4;
   height: 100%;
+  /* background-image: linear-gradient(rgba(0 0 0 0.5),
+  #0000005d),
+  url(../surveyform_project/jason-goodman-vbxyfxlgpjM-unsplash.jpg); */
+  background-image: url(../surveyform_project/jason-goodman-vbxyfxlgpjM-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .main {

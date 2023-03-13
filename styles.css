@@ -4,7 +4,7 @@ body {
       rgba(29 58 125 /70%),
       rgb(85 85 98)
     ),
-        url(jason-goodman-vbxyFxlgpjM-unsplash.jpg);
+    url("jason-goodman-vbxyFxlgpjM-unsplash.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -50,8 +50,8 @@ form {
   min-width: 20%;
   margin: auto;
   padding: 30px;
-	font-weight: 400;
-	font-size: 12px;
+  font-weight: 400;
+  font-size: 12px;
   height: 100%;
   flex-wrap: wrap;
   padding-top: 50px;
@@ -93,13 +93,13 @@ input[type="text"]:focus,
 input[type="email"]:focus,
 input[type="number"]:focus,
 select:focus {
-	outline: none !important;
-	box-shadow: 0 0 10px rgb(5 204 234);
+  outline: none !important;
+  box-shadow: 0 0 10px rgb(5 204 234);
 }
 
 .inline {
-	width: unset;
-	margin: 0 8px 0 0;
-	min-height: unset;
-	vertical-align: middle;
+  width: unset;
+  margin: 0 8px 0 0;
+  min-height: unset;
+  vertical-align: middle;
 }
